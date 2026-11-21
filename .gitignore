@@ -1,0 +1,12 @@
+.venv/
+
+
+data/
+
+python-version
+uv.lock
+
+
+yolo26n.pt
+
+models/
