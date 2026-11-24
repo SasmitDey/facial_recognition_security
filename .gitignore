@@ -10,3 +10,5 @@ uv.lock
 yolo26n.pt
 
 models/
+
+test.py
